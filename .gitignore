@@ -1,3 +1,4 @@
 *.txt[cod]
 log/
 resources/products.json
+docker-compose.yaml
