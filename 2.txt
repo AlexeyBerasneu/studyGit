@@ -1,0 +1,2 @@
+print("Hello word !!!")
+int [] array = {1,1,3,2,5}
